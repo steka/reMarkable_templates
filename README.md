@@ -24,3 +24,5 @@ To use these templates on the [reMarkable](https://remarkable.com/), you have to
       ]
     }
 ```
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K14JEJS)
