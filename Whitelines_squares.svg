@@ -1,80 +1,265 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="156.75mm" height="209mm" version="1.1" viewBox="0 0 156.75 209" xmlns="http://www.w3.org/2000/svg">
- <rect width="156.75" height="209" fill="#d0d0d0"/>
- <g stroke="#fff" stroke-width=".223">
-  <path d="m0 0v209"/>
-  <path d="m5 0v209"/>
-  <path d="m10 0v209"/>
-  <path d="m15 0v209"/>
-  <path d="m20 0v209"/>
-  <path d="m25 0v209"/>
-  <path d="m30 0v209"/>
-  <path d="m35 0v209"/>
-  <path d="m40 0v209"/>
-  <path d="m45 0v209"/>
-  <path d="m50 0v209"/>
-  <path d="m55 0v209"/>
-  <path d="m60 0v209"/>
-  <path d="m65 0v209"/>
-  <path d="m70 0v209"/>
-  <path d="m75 0v209"/>
-  <path d="m80 0v209"/>
-  <path d="m85 0v209"/>
-  <path d="m90 0v209"/>
-  <path d="m95 0v209"/>
-  <path d="m100 0v209"/>
-  <path d="m105 0v209"/>
-  <path d="m110 0v209"/>
-  <path d="m115 0v209"/>
-  <path d="m120 0v209"/>
-  <path d="m125 0v209"/>
-  <path d="m130 0v209"/>
-  <path d="m135 0v209"/>
-  <path d="m140 0v209"/>
-  <path d="m145 0v209"/>
-  <path d="m150 0v209"/>
-  <path d="m155 0v209"/>
-  <path d="m0 0h156.75"/>
-  <path d="m0 5h156.75"/>
-  <path d="m0 10h156.75"/>
-  <path d="m0 15h156.75"/>
-  <path d="m0 20h156.75"/>
-  <path d="m0 25h156.75"/>
-  <path d="m0 30h156.75"/>
-  <path d="m0 35h156.75"/>
-  <path d="m0 40h156.75"/>
-  <path d="m0 45h156.75"/>
-  <path d="m0 50h156.75"/>
-  <path d="m0 55h156.75"/>
-  <path d="m0 60h156.75"/>
-  <path d="m0 65h156.75"/>
-  <path d="m0 70h156.75"/>
-  <path d="m0 75h156.75"/>
-  <path d="m0 80h156.75"/>
-  <path d="m0 85h156.75"/>
-  <path d="m0 90h156.75"/>
-  <path d="m0 95h156.75"/>
-  <path d="m0 100h156.75"/>
-  <path d="m0 105h156.75"/>
-  <path d="m0 110h156.75"/>
-  <path d="m0 115h156.75"/>
-  <path d="m0 120h156.75"/>
-  <path d="m0 125h156.75"/>
-  <path d="m0 130h156.75"/>
-  <path d="m0 135h156.75"/>
-  <path d="m0 140h156.75"/>
-  <path d="m0 145h156.75"/>
-  <path d="m0 150h156.75"/>
-  <path d="m0 155h156.75"/>
-  <path d="m0 160h156.75"/>
-  <path d="m0 165h156.75"/>
-  <path d="m0 170h156.75"/>
-  <path d="m0 175h156.75"/>
-  <path d="m0 180h156.75"/>
-  <path d="m0 185h156.75"/>
-  <path d="m0 190h156.75"/>
-  <path d="m0 195h156.75"/>
-  <path d="m0 200h156.75"/>
-  <path d="m0 205h156.75"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1404pt"
+   height="1872pt"
+   version="1.1"
+   viewBox="0 0 1404 1872"
+   id="svg72"
+   sodipodi:docname="Whitelines_squares.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs72" />
+  <sodipodi:namedview
+     id="namedview72"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.27224744"
+     inkscape:cx="598.72004"
+     inkscape:cy="1449.0494"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g74" />
+  <rect
+     width="1403.9994"
+     height="1871.9991"
+     fill="#d0d0d0"
+     id="rect1"
+     x="0.00064635184"
+     y="0.00070916011"
+     style="stroke-width:8.95694" />
+  <g
+     stroke="#ffffff"
+     stroke-width="0.223"
+     id="g74"
+     transform="matrix(8.9569332,0,0,8.9569332,7.0938784e-4,7.0938784e-4)">
+    <path
+       d="M 4.9999234,-7.9199858e-5 V 209.00003"
+       id="path2" />
+    <path
+       d="M 9.999926,-7.9199858e-5 V 209.00003"
+       id="path3" />
+    <path
+       d="M 14.999929,-7.9199858e-5 V 209.00003"
+       id="path4" />
+    <path
+       d="M 19.999931,-7.9199858e-5 V 209.00003"
+       id="path5" />
+    <path
+       d="M 24.999934,-7.9199858e-5 V 209.00003"
+       id="path6" />
+    <path
+       d="M 29.999937,-7.9199858e-5 V 209.00003"
+       id="path7" />
+    <path
+       d="M 34.999939,-7.9199858e-5 V 209.00003"
+       id="path8" />
+    <path
+       d="M 39.999942,-7.9199858e-5 V 209.00003"
+       id="path9" />
+    <path
+       d="M 44.999944,-7.9199858e-5 V 209.00003"
+       id="path10" />
+    <path
+       d="M 49.999947,-7.9199858e-5 V 209.00003"
+       id="path11" />
+    <path
+       d="M 54.99995,-7.9199858e-5 V 209.00003"
+       id="path12" />
+    <path
+       d="M 59.999952,-7.9199858e-5 V 209.00003"
+       id="path13" />
+    <path
+       d="M 64.999955,-7.9199858e-5 V 209.00003"
+       id="path14" />
+    <path
+       d="M 69.999957,-7.9199858e-5 V 209.00003"
+       id="path15" />
+    <path
+       d="M 74.99996,-7.9199858e-5 V 209.00003"
+       id="path16" />
+    <path
+       d="M 79.999962,-7.9199858e-5 V 209.00003"
+       id="path17" />
+    <path
+       d="M 84.999965,-7.9199858e-5 V 209.00003"
+       id="path18" />
+    <path
+       d="M 89.999968,-7.9199858e-5 V 209.00003"
+       id="path19" />
+    <path
+       d="M 94.99997,-7.9199858e-5 V 209.00003"
+       id="path20" />
+    <path
+       d="M 99.999973,-7.9199858e-5 V 209.00003"
+       id="path21" />
+    <path
+       d="M 104.99997,-7.9199858e-5 V 209.00003"
+       id="path22" />
+    <path
+       d="M 109.99998,-7.9199858e-5 V 209.00003"
+       id="path23" />
+    <path
+       d="M 114.99998,-7.9199858e-5 V 209.00003"
+       id="path24" />
+    <path
+       d="M 119.99998,-7.9199858e-5 V 209.00003"
+       id="path25" />
+    <path
+       d="M 124.99998,-7.9199858e-5 V 209.00003"
+       id="path26" />
+    <path
+       d="M 129.99999,-7.9199858e-5 V 209.00003"
+       id="path27" />
+    <path
+       d="M 134.99999,-7.9199858e-5 V 209.00003"
+       id="path28" />
+    <path
+       d="M 139.99999,-7.9199858e-5 V 209.00003"
+       id="path29" />
+    <path
+       d="M 145,-7.9199858e-5 V 209.00003"
+       id="path30" />
+    <path
+       d="M 150,-7.9199858e-5 V 209.00003"
+       id="path31" />
+    <path
+       d="M 155,-7.9199858e-5 V 209.00003"
+       id="path32" />
+    <path
+       d="M -7.9199858e-5,4.9999234 H 156.75"
+       id="path34" />
+    <path
+       d="M -7.9199858e-5,9.999926 H 156.75"
+       id="path35" />
+    <path
+       d="M -7.9199858e-5,14.999929 H 156.75"
+       id="path36" />
+    <path
+       d="M -7.9199858e-5,19.999931 H 156.75"
+       id="path37" />
+    <path
+       d="M -7.9199858e-5,24.999934 H 156.75"
+       id="path38" />
+    <path
+       d="M -7.9199858e-5,29.999937 H 156.75"
+       id="path39" />
+    <path
+       d="M -7.9199858e-5,34.999939 H 156.75"
+       id="path40" />
+    <path
+       d="M -7.9199858e-5,39.999942 H 156.75"
+       id="path41" />
+    <path
+       d="M -7.9199858e-5,44.999944 H 156.75"
+       id="path42" />
+    <path
+       d="M -7.9199858e-5,49.999947 H 156.75"
+       id="path43" />
+    <path
+       d="M -7.9199858e-5,54.99995 H 156.75"
+       id="path44" />
+    <path
+       d="M -7.9199858e-5,59.999952 H 156.75"
+       id="path45" />
+    <path
+       d="M -7.9199858e-5,64.999955 H 156.75"
+       id="path46" />
+    <path
+       d="M -7.9199858e-5,69.999957 H 156.75"
+       id="path47" />
+    <path
+       d="M -7.9199858e-5,74.99996 H 156.75"
+       id="path48" />
+    <path
+       d="M -7.9199858e-5,79.999962 H 156.75"
+       id="path49" />
+    <path
+       d="M -7.9199858e-5,84.999965 H 156.75"
+       id="path50" />
+    <path
+       d="M -7.9199858e-5,89.999968 H 156.75"
+       id="path51" />
+    <path
+       d="M -7.9199858e-5,94.99997 H 156.75"
+       id="path52" />
+    <path
+       d="M -7.9199858e-5,99.999973 H 156.75"
+       id="path53" />
+    <path
+       d="M -7.9199858e-5,104.99997 H 156.75"
+       id="path54" />
+    <path
+       d="M -7.9199858e-5,109.99998 H 156.75"
+       id="path55" />
+    <path
+       d="M -7.9199858e-5,114.99998 H 156.75"
+       id="path56" />
+    <path
+       d="M -7.9199858e-5,119.99998 H 156.75"
+       id="path57" />
+    <path
+       d="M -7.9199858e-5,124.99998 H 156.75"
+       id="path58" />
+    <path
+       d="M -7.9199858e-5,129.99999 H 156.75"
+       id="path59" />
+    <path
+       d="M -7.9199858e-5,134.99999 H 156.75"
+       id="path60" />
+    <path
+       d="M -7.9199858e-5,139.99999 H 156.75"
+       id="path61" />
+    <path
+       d="M -7.9199858e-5,145 H 156.75"
+       id="path62" />
+    <path
+       d="M -7.9199858e-5,150 H 156.75"
+       id="path63" />
+    <path
+       d="M -7.9199858e-5,155 H 156.75"
+       id="path64" />
+    <path
+       d="M -7.9199858e-5,160 H 156.75"
+       id="path65" />
+    <path
+       d="M -7.9199858e-5,165.00001 H 156.75"
+       id="path66" />
+    <path
+       d="M -7.9199858e-5,170.00001 H 156.75"
+       id="path67" />
+    <path
+       d="M -7.9199858e-5,175.00001 H 156.75"
+       id="path68" />
+    <path
+       d="M -7.9199858e-5,180.00001 H 156.75"
+       id="path69" />
+    <path
+       d="M -7.9199858e-5,185.00002 H 156.75"
+       id="path70" />
+    <path
+       d="M -7.9199858e-5,190.00002 H 156.75"
+       id="path71" />
+    <path
+       d="M -7.9199858e-5,195.00002 H 156.75"
+       id="path72" />
+    <path
+       d="M -7.9199858e-5,200.00002 H 156.75"
+       id="path73" />
+    <path
+       d="M -7.9199858e-5,205.00003 H 156.75"
+       id="path74" />
+  </g>
 </svg>
